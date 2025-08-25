@@ -14,7 +14,8 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 A définir
 
 ```
-
+Un PC souswindows ou linux avec un espace d'au moins 100GB et une mémoire d'au moins 4GB.
+Ensuite installer jdk 17 et un serveur Tomcat.
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
