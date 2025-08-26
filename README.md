@@ -24,7 +24,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ```
 A définir
 ```
-
+Pour l'insatallation copier tous les fichiers dans la racine di serveur Tomcat
 
 
 ## Executer les tests
